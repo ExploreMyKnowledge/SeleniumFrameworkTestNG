@@ -68,7 +68,12 @@
     <artifactId>poi-ooxml</artifactId>
     <version>4.1.2</version>
 </dependency>
-		
+<!-- dependencies for using maven tools, can be taken from applitool site -->
+	<dependency>
+	 	<groupId>com.applitools</groupId>
+	 	<artifactId>eyes-selenium-java3</artifactId>
+	 	<version>3.160.2</version>
+	</dependency>	
 		
 	</dependencies>
 
